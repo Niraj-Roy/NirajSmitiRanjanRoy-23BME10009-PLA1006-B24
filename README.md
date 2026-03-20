@@ -12,7 +12,8 @@ I am a Mechanical Engineering student with a strong interest in fluid dynamics a
 **FEA of Non - Return Valve using Fusion 360**
 
 ## Video
-[Click here to watch the self-introduction video](PASTE_YOUR_VIDEO_LINK_HERE)
+Due to GitHub preview limitations, please download / view the video from the link below:
+[Download / View video](https://github.com/Niraj-Roy/NirajSmitiRanjanRoy-23BME10009-PLA1006-B24/raw/main/NirajSmitiRanjanRoy_23BME10009_PLA1006_B24.mp4)
 
 ## Focus Areas
 Fluid Mechanics | CFD | Engineering Analysis
