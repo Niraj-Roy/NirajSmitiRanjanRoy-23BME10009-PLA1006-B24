@@ -8,8 +8,8 @@ Self Introduction Video for PLA1006 Lateral Thinking Internal Assessment 1.
 I am a Mechanical Engineering student with a strong interest in fluid dynamics and analysis-driven problem solving.
 
 ## Projects Mentioned
-**Analysis of Swirling Jets**
-**FEA of Non - Return Valve using Fusion 360**
+- **Analysis of Swirling Jets**
+- **FEA of Non - Return Valve using Fusion 360**
 
 ## Video
 Due to GitHub preview limitations, please download / view the video from the link below:
